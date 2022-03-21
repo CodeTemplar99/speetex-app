@@ -1,6 +1,5 @@
 # speext_app
 
-![Uploading Screenshot 2022-03-21 at 10.01.02.png…]()
 
 ## Getting Started
 
