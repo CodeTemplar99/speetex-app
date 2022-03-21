@@ -1,5 +1,6 @@
 # speext_app
 
+<img width="419" alt="Screenshot 2022-03-21 at 10 01 02" src="https://user-images.githubusercontent.com/36797498/159231287-4444605f-1fa6-4bf1-8969-c77b4908f744.png">
 
 ## Getting Started
 
